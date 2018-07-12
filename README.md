@@ -1,4 +1,7 @@
 # m-Shield
+A Windows application: m-shield servers as the child health care app providing features like priliminary health check survey, disease directory, medication and doctors directory, chat and appointment scheduler.
+
+m-Shield
 It is the module of an application which has the basic questionare that needs to be filled up by the user which will determine the childs preliminary health condition of a child.
 The questionare has 4 parts.
 Tha mainform which is to be filled up reagsrding all the preliminary heatlh conditons.
